@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: fire3's notes
+title: hgy's notes
 subtitle:
 description:
-author: fire3
-email: fire3@crixmod.com
+author: hgy
+email: hgy@crixmod.com
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://fire3.crixmod.com
+url: http://hgy.crixmod.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,7 +69,7 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:fire3/fire3.github.io.git
+  repo: git@github.com:huanggaoyang/huanggaoyang.github.io.git
   branch: master
 
 
@@ -109,6 +109,6 @@ highlight_theme: normal
 
 creative_commons: by-nc-sa
 
-duoshuo_shortname: fire3
+duoshuo_shortname: huanggaoyang
 #
 # # EndNexT 主题相关配置 ==========================
